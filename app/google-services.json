@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1081749482375",
+    "project_id": "messagesender-f5f28",
+    "storage_bucket": "messagesender-f5f28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081749482375:android:6e0c85ae60c1fafd7a0122",
+        "android_client_info": {
+          "package_name": "com.example.denememesaj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081749482375-9tc7p03brucos0h5rlgo51ispsd0caav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXlTkZULgbvfQg775pFmpXjmqiYcg7q0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081749482375-9tc7p03brucos0h5rlgo51ispsd0caav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
